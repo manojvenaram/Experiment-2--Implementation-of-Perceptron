@@ -114,5 +114,4 @@ plt.ylabel('Errors')
 plt.show()
 ```
 ## output:
-![](1.png)
-1[](2.png)
+![](NN1.png)
