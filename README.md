@@ -113,5 +113,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
-## output:
+## Output:
 ![](NN1.png)
+## Result:
+
