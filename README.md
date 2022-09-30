@@ -116,4 +116,4 @@ plt.show()
 ## Output:
 ![](NN1.png)
 ## Result:
-
+Thus,a perceptron for classification using Python is executed successfully
